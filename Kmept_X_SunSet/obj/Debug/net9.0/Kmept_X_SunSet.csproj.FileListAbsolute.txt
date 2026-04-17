@@ -76,3 +76,4 @@
 /Users/steam.k228mail.ru/Desktop/Kmept_x_SunSet/Kmept_X_SunSet/obj/Debug/net9.0/Kmept_X_SunSet.pdb
 /Users/steam.k228mail.ru/Desktop/Kmept_x_SunSet/Kmept_X_SunSet/obj/Debug/net9.0/Kmept_X_SunSet.genruntimeconfig.cache
 /Users/steam.k228mail.ru/Desktop/Kmept_x_SunSet/Kmept_X_SunSet/obj/Debug/net9.0/ref/Kmept_X_SunSet.dll
+/Users/steam.k228mail.ru/Desktop/Kmept_x_SunSet/Kmept_X_SunSet/obj/Debug/net9.0/Kmept_X_SunSet.sourcelink.json
